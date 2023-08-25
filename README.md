@@ -7,6 +7,9 @@ Logado eu posso criar um post, atualizar ou excluir o mesmo.
 ## Layout web
 ![Web padrão](https://github.com/SamuelFilgueira/Anime-Search-Assets/blob/main/webgif.gif) 
 
+## Layout mobile
+! Ainda em desenvolvimento.
+
 # Tecnologias utilizadas
 
 - Javascript
