@@ -1,4 +1,8 @@
 # Projeto miniblog 
+Projeto desenvolvido no curso de react Hora de codar.
+O projeto é um miniblog onde o usuário deverá estar autenticado pelo google para poder criar um post.
+Sem estar logado eu tenho a capacidade de ver os posts já feitos e pesquisar por tags.
+Logado eu posso criar um post, atualizar ou excluir o mesmo.
 
 ## Layout web
 ![Web padrão](https://github.com/SamuelFilgueira/Anime-Search-Assets/blob/main/webgif.gif) 
