@@ -1,5 +1,8 @@
 # Projeto miniblog 
 
+## Layout web
+![Web padrão](https://github.com/SamuelFilgueira/Anime-Search-Assets/blob/main/webgif.gif) 
+
 # Tecnologias utilizadas
 
 - Javascript
